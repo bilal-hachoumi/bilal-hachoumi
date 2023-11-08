@@ -8,19 +8,14 @@
   <br/> 
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5000&pause=900&color=FFF6F6&center=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I'm+Bilal+Hachoumi;I'm+a+Full+Stack+Developer;)](https://git.io/typing-svg)<br>
-  
-  <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 300px />
+
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=bilal-hachoumi&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</a>  
+  <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 350px />
 
   
-  #### 🎓Software Engineering Student.<br>
-  📚 Eager to acquire more knowledge and achieve further.<br>
-  ⚡ love the challenge of thinking about complex problems and finding creative solutions.<br>
-  🌍 I'm based in Morocco 🇲🇦<br>
-  ✉️ You can contact me at [Bilalhachoumi.pro@gmail.com](mailto:Bilalhachoumi.pro@gmail.com)<br>
-  <br><br><br>
-
-  I'm Software Developer
-
+<h3 > I'm Software Develope</h3> 
 📚 Eager to acquire more knowledge and achieve further.
 
 ⚡ love the challenge of thinking about complex problems and finding creative solutions.
