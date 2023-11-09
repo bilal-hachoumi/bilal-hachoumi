@@ -2,9 +2,6 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=120&section=header"/>
   </a> 
   
-  
-
-  
   <br/> 
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5000&pause=900&color=FFF6F6&center=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I'm+Bilal+Hachoumi;I'm+a+Full+Stack+Developer;)](https://git.io/typing-svg)<br>
@@ -64,6 +61,10 @@
     <img width="44" height="45" title="Adobe Photoshop" src="https://brandeps.com/logo-download/A/Adobe-Photoshop-CC-logo-vector-02.svg" alt="Adobe   Photoshop"/>
     <img width="44" height="45" title="Adobe Illustrator" src="https://brandeps.com/logo-download/A/Adobe-Illustrator-CC-logo-vector-02.svg"     
     alt="Adobe Illustrator"/>
+       <img width="44" height="45" title="Adobe Audition" src="https://brandeps.com/logo-download/A/Adobe-Audition-CC-logo-vector-02.svg"     
+    alt="Adobe Audition"/>
+       <img width="44" height="45" title="Adobe Premiere" src="https://brandeps.com/logo-download/A/Adobe-Premiere-Pro-CC-logo-vector-02.svg"
+    alt="Adobe Premiere"/>
   </div>
   
   <br><br>
