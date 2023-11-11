@@ -55,7 +55,7 @@
     <img width="50" height="50" title="MongoDB" src="https://brandeps.com/logo-download/M/MongoDB-logo-vector-01.svg" alt="MongoDB"/>
   </div>
   
-  #### ✒️ Prototyping <br/>
+  #### ✒️ graphic design <br/>
   <div style='display:flex;'>
     <img width="45" height="45" title="Figma" src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" alt="Figma"/>
     <img width="44" height="45" title="Adobe Photoshop" src="https://brandeps.com/logo-download/A/Adobe-Photoshop-CC-logo-vector-02.svg" alt="Adobe   Photoshop"/>
