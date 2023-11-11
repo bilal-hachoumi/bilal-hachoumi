@@ -66,6 +66,15 @@
        <img width="44" height="45" title="Adobe Premiere" src="https://brandeps.com/logo-download/A/Adobe-Premiere-Pro-CC-logo-vector-02.svg"
     alt="Adobe Premiere"/>
   </div>
+
+  #### ✒️ SKILLS <br/>
+  <div style='display:flex;'>
+    <img width="45" height="45" title="-Powerpoint" src="https://brandeps.com/logo-download/M/Microsoft-Powerpoint-logo-vector-02.svg" alt="-Powerpoint"/>
+    <img width="44" height="45" title="Word" src="https://brandeps.com/logo-download/M/Microsoft-Word-logo-vector-02.svg" alt="Word"/>
+    <img width="44" height="45" title="Excel" src="https://brandeps.com/logo-download/M/Microsoft-Excel-logo-vector-02.svg"     
+    alt="Excel"/>
+       
+  </div>
   
   <br><br>
   
