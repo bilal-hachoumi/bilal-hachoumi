@@ -60,8 +60,6 @@
     <img width="44" height="45" title="Adobe Photoshop" src="https://brandeps.com/logo-download/A/Adobe-Photoshop-CC-logo-vector-02.svg" alt="Adobe   Photoshop"/>
     <img width="44" height="45" title="Adobe Illustrator" src="https://brandeps.com/logo-download/A/Adobe-Illustrator-CC-logo-vector-02.svg"     
     alt="Adobe Illustrator"/>
-       <img width="44" height="45" title="Adobe Audition" src="https://brandeps.com/logo-download/A/Adobe-Audition-CC-logo-vector-02.svg"     
-    alt="Adobe Audition"/>
        <img width="44" height="45" title="Adobe Premiere" src="https://brandeps.com/logo-download/A/Adobe-Premiere-Pro-CC-logo-vector-02.svg"
     alt="Adobe Premiere"/>
   </div>
